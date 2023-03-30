@@ -29,7 +29,7 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 - Jeudi 9 février 2023 : Recherches de sujets -> sur le badminton ?
 - Jeudi 2 mars 2023 : Suite des recherches de sujet -> badminton se confirme + un sujet sur les mini-jeux (type réussites)
 - Jeudi 23 mars : Changement de sujet : poker || Recherches sur le poker: -> cf. IA pluribus + docs w/ liens intéressants
-- Jeudi 30 mars : Suite des Recherches sur le poker: -> IA Libratus || Jouer selon l'équilibre de Nash -> devrait permettre de gagner au poker (théoriquement) || Voir recherches Noam Brown -> Chercheur || co-créateur de Libratus
+- Jeudi 30 mars : Suite des Recherches sur le poker: -> IA Libratus (a toujours une avance sur l'Homme (gains de 1766250€ lors d'une compétition) || Jouer selon l'équilibre de Nash -> devrait permettre de gagner au poker (théoriquement) || Voir recherches Noam Brown & Tuomas Sandholm-> Chercheurs || créateurs de Libratus
 -
 -
 -
