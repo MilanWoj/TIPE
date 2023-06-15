@@ -44,7 +44,7 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 
 ## Références bibliographiques (2 à 10 références)
 
-1. 
+1. Projet sur le poker AMQ (10/2010) : https://www.amq.math.ca/wp-content/uploads/bulletin/vol50/no3/page070_079atelier_fradette.pdf || https://www.amq.math.ca/wp-content/uploads/bulletin/vol50/no3/page087_093annexe-poker.pdf
 2. 
 3. 
 4. 
