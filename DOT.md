@@ -32,6 +32,6 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 - Jeudi 30 mars : Suite des Recherches sur le poker: -> IA Libratus (a toujours une avance sur l'Homme (gains de 1766250€ lors d'une compétition) || Jouer selon l'équilibre de Nash (lien avec la théorie des jeux ?) -> devrait permettre de gagner au poker en 1 vs 1 (théoriquement) || Voir recherches Noam Brown & Tuomas Sandholm-> Chercheurs & créateurs de Libratus
 - Du 6 avril au 1er Juin : Recherches -> Côtes / Dénombrement des différentes combinaisons possibles / Probas en fonction du nombre d'outs  (+ équilibre de Nash & théorie des jeux au poker ??)
 - 8 Juin : 
--
+- 15 Juin : Lecture projet poker + annexes de l'Association Mathématique du Québec (Volume 50, octobre 2010)
 -
 
