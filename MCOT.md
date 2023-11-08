@@ -47,7 +47,7 @@ Comment un ordinateur peut-il gagner au poker ?
 1. Projet sur le poker AMQ (10/2010) : https://www.amq.math.ca/wp-content/uploads/bulletin/vol50/no3/page070_079atelier_fradette.pdf || Annexe : https://www.amq.math.ca/wp-content/uploads/bulletin/vol50/no3/page087_093annexe-poker.pdf
 2. Chaîne youtube https://www.youtube.com/@TutoPoker
 3. Thèses de Thuomas Sandholm
-4. 
+4. https://www.poker-academie.com/apprendre-poker/strategie-poker/no-limit-holdem/les-maths-au-poker-initiation-a-la-theorie-des-jeux-appliques-au-poker.html#:~:text=La%20théorie%20des%20jeux%20est,appelle%20l%27équilibre%20de%20Nash.
 5. 
 6. 
 7. 
